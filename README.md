@@ -4,6 +4,7 @@ repositorio para armazenar resumos sobre git e github do curso de versionamento 
 
 ## 📚 Documentação  
 -[documentação github](cd dio-resumos-git-github)
+-[documentação git](https://git-scm.com/doc)
 
 ## 💻  resumos das aulas
 
